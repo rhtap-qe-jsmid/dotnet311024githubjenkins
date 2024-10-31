@@ -1,4 +1,4 @@
-# Trusted Application Pipeline Software Template
+# Trusted Application Pipeline Software Template 
 
 This application, **dotnet311024githubjenkins**, was created from a Trusted Application Pipeline Software Template.
 
